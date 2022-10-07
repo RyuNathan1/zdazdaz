@@ -1,5 +1,5 @@
 <?php
-echo "salut";
+echo "tyu";
 session_start();
 
 include 'vue/entete.php';
